@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\listremake\listremake\bin\Debug\listremake.exe.config
+C:\Users\geliron\source\repos\listremake\listremake\bin\Debug\listremake.exe
+C:\Users\geliron\source\repos\listremake\listremake\bin\Debug\listremake.pdb
+C:\Users\geliron\source\repos\listremake\listremake\obj\Debug\listremake.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\listremake\listremake\obj\Debug\listremake.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\listremake\listremake\obj\Debug\listremake.exe
+C:\Users\geliron\source\repos\listremake\listremake\obj\Debug\listremake.pdb
